@@ -11,4 +11,4 @@ Important Dates
 - Workshop Dates: 28 or 29 March 2026 (TBD)
 
 
-To learn more about SilkRoadNLP 2026 and read our call for papers, visit [silkroadnlp.org](url).
+To learn more about SilkRoadNLP 2026 and read our call for papers, visit [silkroadnlp.org](silkroadnlp.org).
